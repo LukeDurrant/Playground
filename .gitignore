@@ -2,3 +2,4 @@
 Carthage/**
 Carthage/*/*
 *.DS_Store
+xcuserdata
